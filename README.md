@@ -3,8 +3,6 @@
 # Project Overview
 This project focuses on predicting NYC taxi fare amounts using a real-world dataset. Machine Learning techniques are applied to analyze trip data, perform feature engineering, and build regression models to estimate fare prices accurately.
 
-
-
 #  Problem Statement
 Taxi fare prediction is a regression problem where the goal is to estimate the total fare amount based on trip-related features such as distance, pickup time, location, and passenger count.
 
@@ -15,8 +13,6 @@ Taxi fare prediction is a regression problem where the goal is to estimate the t
 - Matplotlib  
 - Scikit-learn  
 - Jupyter Notebook  
-
-
 
 # Steps Performed
 
@@ -42,8 +38,6 @@ Taxi fare prediction is a regression problem where the goal is to estimate the t
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
-
-
 
 # Results
 - Random Forest performed better than Linear Regression
